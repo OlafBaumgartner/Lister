@@ -1,0 +1,2 @@
+# MoonStruck
+Setting up a database-driven, mobile inspection application that can be used to inspect and document existing buildings, plants, and areas. The project will allow local as well as online storage of the data. There will be web-components / enhancements only, but the basic functions shall run on the mobile device, even if not connected to the web. The first application will be an app that supports documenting and reporting of indoor and outdoor lighting systems. The initial target platform is Windows 10 / SQL Server backbone.
